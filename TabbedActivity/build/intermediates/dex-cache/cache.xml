@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.android\build-cache\bdcdc20724f865852b5677d4a5ca953beb9596b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6db76a4a043e0c41088c80a1c8948849156ccf0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ba6271a825c51679ceee3557f8618394320a4577\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.android\build-cache\788f6a0d06ad65c18d08959dea0f813eda0fccdb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12df7b595d3a536e9d4d7ad79f44919117d78fff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.android\build-cache\aaad18c0b15c4ad122272a1cd9808107f3a10855\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5afd1217c9d1994a5fc85c44f600c27ef7f678f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.android\build-cache\dafa8b1494ac245ebf1ca0efcc0fffaa603236d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03c9b4c1606643f10b16415553b3131b86a21f16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_6a6bdc497a204132ca425d5b11bcf5a2700681d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.android\build-cache\741cdccfbce3292c5cf1ce785a8482297e0c1bfb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0de6d1da98b54e9ac68222c269b4e88d8f77405e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.android\build-cache\2aa28037a12deed160da94c803160dc16bf902c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d2797d47df3531f0e3be710639115ca07d3c3f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.android\build-cache\0599c672a701752bbb33c83205553068b31d7058\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8f173ecad61b57c76fc623ec20884565e64393c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_d9adcf6773651346c3207209bebb36029d9b4bef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.android\build-cache\70d1b7a27c3bf311204d52bbbe23e4b045cd11e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5c8c4c4b0e2b10a94a8981a19ed0c2e4fffc0bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.android\build-cache\d7366aab165d758aad2297016de718acfb6f3080\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f69d882cdca9394f34379121d736a756fbbb2a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.android\build-cache\a5fe3944d5d9756df08e84014b034a66fdddb3ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0be8c0ba153719d15cc36c86849f3ecbc9b7194\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.android\build-cache\52dfc19034e5f2d2b437b4ed91a7009c02361820\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67bfdd01672ce892e732a167c17082916f3087bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="7b132f0594c060472e6ca808209f5afe32947532">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2a4c6a4ec2ef45ece312e995ec30943a7b249c49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.android\build-cache\194ffa2617239b554fb9b8df139d2ce8cf711858\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab592481e02353867157cf26c7949eae304cc946\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Student\.android\build-cache\f3d12d0d1e7fe4937b377d40a50e4d58423a7b7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Student\Desktop\Massagechatt\TabbedActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b1aa26c3e4f47b6c01036faa2f3aa47872963ca\classes.dex" />
+    </item>
+
+</items>
